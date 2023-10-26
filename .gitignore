@@ -1,0 +1,52 @@
+# Arquivos de compilação e saída
+bin/
+obj/
+
+# Pasta de módulos Node.js
+node_modules/
+
+# Arquivos temporários
+[Tt]emp/
+[Vv]isual[Ss]tudio[Ll]ock
+*.swp
+
+# Arquivos de compilação
+*.user
+*.suo
+*.cache
+*.log
+
+# Arquivos de configuração
+*.vscode/
+.vscode/
+.vscode-test/
+.idea/
+
+# Arquivos de build
+[Dd]ebug/
+[Rr]elease/
+packages/
+*.sln.iml
+
+# Arquivos gerados automaticamente
+[Tt]ools/
+[Rr]eSharper[Rr]ecover/
+_ReSharper[Rr]esharper[Rr]eport/
+[Nn]uGet.Config
+
+# Logs e erros
+[Tt]est[Rr]esult*
+[Bb]in/
+[Ss]creenshots/
+[Ss]ubscriptions/
+[Rr]eports/
+
+# Diretórios de ferramentas
+_tools/
+_root/
+
+# Pasta de saída de documentação
+[Dd]ocumentation/
+
+# Pacotes Node.js
+node_modules/
